@@ -11,6 +11,6 @@
 
 
 ## Notes
--Please click Fibonacci on the nav for item 9.
--Please click Class on the nav for item 10.
--Please click Form on the nav for item 11.
+- Please click Fibonacci on the nav for item 9.
+- Please click Class on the nav for item 10.
+- Please click Form on the nav for item 11.
